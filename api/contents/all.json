@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-12-20T09:16:24.219255Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-12-20T09:15:40.535223Z",
+      "mimetype": null,
+      "name": "Analyse_signalling.ipynb",
+      "path": "Analyse_signalling.ipynb",
+      "size": 6604,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-12-20T09:16:24.219255Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-12-12T14:17:38.122307Z",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "Krist_highTSA_500.xlsx",
+      "path": "Krist_highTSA_500.xlsx",
+      "size": 11370,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-12-20T09:16:24.219255Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-12-12T14:18:11.599688Z",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "Krist_lowTSA_100.xlsx",
+      "path": "Krist_lowTSA_100.xlsx",
+      "size": 11872,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-12-20T09:16:24.219255Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-12-12T13:44:56.767120Z",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "de_Cubas_200.xlsx",
+      "path": "de_Cubas_200.xlsx",
+      "size": 6926,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2024-12-20T09:16:24.219255Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-12-20T09:16:24.219255Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
