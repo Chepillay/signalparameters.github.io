@@ -5,7 +5,7 @@ for interactive modelling of signalling parameters as described in the paper
 *"Characterisation of genetically encoded hydrogen peroxide sensor dynamics"* 
 by Lind, Rohwer, Veal and Pillay.
 
-To access the site, go to https://signalparameters.github.io, and one the environment has loaded,
+To access the site, go to https://redoxsysbio.github.io/signalparameters, and one the environment has loaded,
 open the `Analyse_signalling.ipynb` notebook by double-clicking on the file name in the left tab.
 
 To enable full use of the functionality, it is best to run the site in a Chromium-based browser
